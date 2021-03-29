@@ -1,4 +1,4 @@
-#titre Projet - Moteur de calcul
+#titreProjet - Moteur de calcul
 Projet réalisé par Alec Narayanin et Guillaume Zgajnar
 
 ##titre Technologies utilisées
