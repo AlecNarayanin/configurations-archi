@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppliAuth", "AppliAuth\AppliAuth.csproj", "{086D3DB5-9A26-4AD1-95D6-A034A1893E63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{37F0CB46-50FB-488B-9F3A-FF8BB05FAB08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086D3DB5-9A26-4AD1-95D6-A034A1893E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086D3DB5-9A26-4AD1-95D6-A034A1893E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086D3DB5-9A26-4AD1-95D6-A034A1893E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086D3DB5-9A26-4AD1-95D6-A034A1893E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F0CB46-50FB-488B-9F3A-FF8BB05FAB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F0CB46-50FB-488B-9F3A-FF8BB05FAB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F0CB46-50FB-488B-9F3A-FF8BB05FAB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F0CB46-50FB-488B-9F3A-FF8BB05FAB08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A71D3DF-1AF3-4E43-BECB-5E40CF560FF5}
+	EndGlobalSection
+EndGlobal
